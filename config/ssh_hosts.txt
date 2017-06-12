@@ -1,0 +1,8 @@
+#devqa
+#root@118.178.240.112
+
+#prod
+#cron-onix
+root@116.62.30.227
+#server-a
+root@120.27.202.237
