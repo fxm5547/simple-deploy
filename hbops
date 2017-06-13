@@ -1,3 +1,0 @@
-#!/bin/sh
-cd /Users/Martin/Workspace/Python_Workspace/haibao-ops
-python main.py
