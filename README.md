@@ -1,4 +1,4 @@
-## 孩宝服务器运维工具
+## 简单的服务器运维工具
 
 *[English Edition README](./README-EN.md)*
 
