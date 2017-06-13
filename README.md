@@ -18,10 +18,11 @@
 - 本地已经配置好免密码登录要操作的服务器，参考[SSH免密码登录服务器](https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server)
 - 执行`python main.py`
 
-
-
 ### 配置说明
 - 配置文件在config文件夹下
 - 在config/config.py中：可增加／修改部署项目；可预设执行命令；可预设同步文件（夹）
 - 在config/ssh_hosts.txt中可增加／修改发布代码或执行命令的服务器
 - 在config/scp_hosts.txt中可增加／修改同步文件（夹）的服务器
+
+### 执行界面截图
+![screen capture](./files/imgs/deploy.png)
